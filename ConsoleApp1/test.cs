@@ -2,5 +2,5 @@
 
 public class Test
 {
-    NotImplementedException;
+    public Task Task { get; set; }
 }
